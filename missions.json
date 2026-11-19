@@ -1,0 +1,7 @@
+{
+  "missions": [
+    { "id": 1, "name": "First Wheels", "type": "go-to", "objective": "Pick up the car and reach the garage", "reward": 100 },
+    { "id": 2, "name": "Turf Lesson", "type": "turf-takeover", "objective": "Clear the rival crew from the block", "reward": 250 },
+    { "id": 3, "name": "Hot Delivery", "type": "delivery", "objective": "Deliver the package while police heat is on", "reward": 400 }
+  ]
+}
